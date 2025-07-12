@@ -70,7 +70,7 @@ npm run dev
 
 🎥 Demo Video
 👉 LinkedIn Demo Video:
-Watch here
+https://www.linkedin.com/posts/rounak-mishra-2848b32a2_unstop-activity-7349760996661501952-EANu?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEmwZsEBjOU5v87G67UepFVGAMisYfzn1kg&utm_campaign=copy_link
 
 🏁 Future Scope
 🤝 Add a chat-based GenAI agent for interactive city guide planning.
